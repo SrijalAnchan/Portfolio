@@ -1,27 +1,27 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.4e558664.css",
-    "main.js": "/Portfolio/static/js/main.71c4d0af.js",
+    "main.js": "/Portfolio/static/js/main.94519ebd.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/avatar.png": "/Portfolio/static/media/avatar.c14983d67e1d3f383848.png",
+    "static/media/sd2.png": "/Portfolio/static/media/sd2.19f0fca928b9fa41894e.png",
     "static/media/videoAnalyser.png": "/Portfolio/static/media/videoAnalyser.9ef390b0f7cc818f3b90.png",
     "static/media/SRIJAL_ANCHAN_resume.pdf": "/Portfolio/static/media/SRIJAL_ANCHAN_resume.7c6fc5b2201200a2f565.pdf",
-    "static/media/home-main.svg": "/Portfolio/static/media/home-main.541f8179af8209ce03ccf2178fe62dbf.svg",
-    "static/media/about.png": "/Portfolio/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/sd5.png": "/Portfolio/static/media/sd5.94d593a93060c13b37f6.png",
     "static/media/skincancer.jpg": "/Portfolio/static/media/skincancer.b1e913854a644d34bfce.jpg",
-    "static/media/avatar.jpg": "/Portfolio/static/media/avatar.f4b1c169d2168509890f.jpg",
+    "static/media/logo.png": "/Portfolio/static/media/logo.3e701c46d0f652eafc06.png",
     "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/speechTranslator.png": "/Portfolio/static/media/speechTranslator.f2de39ada5229c2abc3f.png",
-    "static/media/logo.jpg": "/Portfolio/static/media/logo.b0f2b1eec6fd6ed2c388.jpg",
     "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
     "index.html": "/Portfolio/index.html",
     "main.4e558664.css.map": "/Portfolio/static/css/main.4e558664.css.map",
-    "main.71c4d0af.js.map": "/Portfolio/static/js/main.71c4d0af.js.map",
+    "main.94519ebd.js.map": "/Portfolio/static/js/main.94519ebd.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e558664.css",
-    "static/js/main.71c4d0af.js"
+    "static/js/main.94519ebd.js"
   ]
 }
