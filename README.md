@@ -2,31 +2,31 @@
 
 Welcome to my personal portfolio website! This project showcases my skills, projects, and professional background.
 
-🌐 Live Demo
+## 🌐 Live Demo
 
 https://SrijalAnchan.github.io/Portfolio
 
-📌 **Sections**
+## 📌Sections
 
-Home – A brief introduction about me and my expertise in AI/ML.
+**Home** – A brief introduction about me and my expertise in AI/ML.
 
-About – Details about my background, skills, and experience.
+**About** – Details about my background, skills, and experience.
 
-Projects – A showcase of my most important projects with descriptions and links.
+**Projects** – A showcase of my most important projects with descriptions and links.
 
-Resume – A downloadable version of my resume.
+**Resume** – A downloadable version of my resume.
 
-🛠 **Tech Stack**
+## 🛠 Tech Stack
 
-Frontend: React.js
+**Frontend**: React.js
 
-Styling: CSS, Bootstrap
+**Styling**: CSS, Bootstrap
 
-Deployment: GitHub Pages
+**Deployment**: GitHub Pages
 
-Version Control: Git & GitHub
+**Version Control**: Git & GitHub
 
-🚀 **Installation & Setup**
+## 🚀 Installation & Setup 
 
 1. Clone this repository:
    ```bash
@@ -43,12 +43,12 @@ Version Control: Git & GitHub
    ```
 The site will be accessible at http://localhost:3000/
 
-📦 **Deployment**
+## 📦 Deployment
 
 This portfolio is deployed using GitHub Pages. To deploy:
 ```bash
    npm run deploy
 ```
 
-**Credits**
+## 📬 Credits
 Developed by @soumyajit4419, with a focus on modern web design principles and a commitment to creating a professional online presence.
