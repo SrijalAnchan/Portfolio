@@ -5,7 +5,7 @@ import {
   SiPostman,
   SiSlack,
   SiLatex,
-  SiJupyter, SiJetbrains,
+  SiJupyter, SiJetbrains, SiAmazonaws
 } from "react-icons/si";
 
 function Toolstack() {
@@ -28,6 +28,9 @@ function Toolstack() {
     </Col>
     <Col xs={4} md={2} className="tech-icons">
       <SiLatex style={{ color: "#008080" }} />
+    </Col>
+    <Col xs={4} md={2} className="tech-icons">
+      <SiAmazonaws style={{ color: "#FF9900" }} />
     </Col>
     </Row>
   );

@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import videoAnalyser from "../../Assets/Projects/videoAnalyser.png";
 import skincancer from "../../Assets/Projects/skincancer.jpg";
 import speechTranslator from "../../Assets/Projects/speechTranslator.png";
+import vishwaPatrika from "../../Assets/Projects/vishwaPatrika.png";
 
 function Projects() {
   return (
@@ -18,7 +19,7 @@ function Projects() {
           Here are a few projects I've worked on recently.
         </p>
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
-          <Col md={4} className="project-card">
+          <Col md={6} className="project-card">
             <ProjectCard
               imgPath={skincancer}
               isBlog={false}
@@ -29,7 +30,7 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          <Col md={6} className="project-card">
             <ProjectCard
               imgPath={speechTranslator}
               isBlog={false}
@@ -40,13 +41,23 @@ function Projects() {
             />
           </Col>
 
-          <Col md={4} className="project-card">
+          <Col md={6} className="project-card">
             <ProjectCard
               imgPath={videoAnalyser}
               isBlog={false}
               title="Video Audio Analyzer"
               description="A Flask-based tool for detecting video issues like frame drops, blank frames, and blurry frames. Built with OpenCV and FFmpeg, it generates detailed PDF reports with timestamps and provides a user-friendly interface for video uploads and analysis."
               ghLink="https://github.com/SrijalAnchan/Video-Audio-Analyzer/"            
+            />
+          </Col>
+
+          <Col md={6} className="project-card">
+            <ProjectCard
+              imgPath={vishwaPatrika}
+              isBlog={false}
+              title="Vishwa Patrika"
+              description=" A News Aggregator web app with authentication, profile management, and admin controls. Integrated external APIs for real-time news updates and designed an animated interface for a seamless user experience."
+              ghLink="https://github.com/SrijalAnchan/VishwaPatrika_Laravel"            
             />
           </Col>
 

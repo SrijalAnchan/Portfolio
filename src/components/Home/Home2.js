@@ -25,7 +25,7 @@ function Home2() {
               <br />
               <br />I am fluent in classics like
               <i>
-                <b className="purple"> C, Java, Python </b>
+                <b className="purple"> C, Java, Python, HTML, CSS, PHP </b>
               </i>
               <br />
               <br />
@@ -34,7 +34,7 @@ function Home2() {
                 <b className="purple">Machine Learning </b> and
                 also in areas related to{" "}
                 <b className="purple">
-                  Artificial Intelligence 
+                  Full Stack development 
                 </b>
               </i>
               <br />
