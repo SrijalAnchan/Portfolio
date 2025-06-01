@@ -1,27 +1,28 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.4e558664.css",
-    "main.js": "/Portfolio/static/js/main.94519ebd.js",
+    "main.css": "/Portfolio/static/css/main.de770f5e.css",
+    "main.js": "/Portfolio/static/js/main.bf1691f3.js",
     "static/js/415.4d6acbeb.chunk.js": "/Portfolio/static/js/415.4d6acbeb.chunk.js",
     "static/js/787.1ed0c42c.chunk.js": "/Portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/avatar.png": "/Portfolio/static/media/avatar.c14983d67e1d3f383848.png",
     "static/media/sd2.png": "/Portfolio/static/media/sd2.19f0fca928b9fa41894e.png",
+    "static/media/vishwaPatrika.png": "/Portfolio/static/media/vishwaPatrika.bdc8670da7c536996ddb.png",
     "static/media/videoAnalyser.png": "/Portfolio/static/media/videoAnalyser.9ef390b0f7cc818f3b90.png",
-    "static/media/SRIJAL_ANCHAN_resume.pdf": "/Portfolio/static/media/SRIJAL_ANCHAN_resume.7c6fc5b2201200a2f565.pdf",
+    "static/media/SRIJAL_resumee.pdf": "/Portfolio/static/media/SRIJAL_resumee.dc056c33324eb5b67c9a.pdf",
     "static/media/sd5.png": "/Portfolio/static/media/sd5.94d593a93060c13b37f6.png",
     "static/media/skincancer.jpg": "/Portfolio/static/media/skincancer.b1e913854a644d34bfce.jpg",
     "static/media/logo.png": "/Portfolio/static/media/logo.3e701c46d0f652eafc06.png",
     "static/media/home-bg.jpg": "/Portfolio/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/speechTranslator.png": "/Portfolio/static/media/speechTranslator.f2de39ada5229c2abc3f.png",
-    "static/media/pre.svg": "/Portfolio/static/media/pre.d4812f51c8c80976eaab.svg",
+    "static/media/pre.svg": "/Portfolio/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/Portfolio/index.html",
-    "main.4e558664.css.map": "/Portfolio/static/css/main.4e558664.css.map",
-    "main.94519ebd.js.map": "/Portfolio/static/js/main.94519ebd.js.map",
+    "main.de770f5e.css.map": "/Portfolio/static/css/main.de770f5e.css.map",
+    "main.bf1691f3.js.map": "/Portfolio/static/js/main.bf1691f3.js.map",
     "415.4d6acbeb.chunk.js.map": "/Portfolio/static/js/415.4d6acbeb.chunk.js.map",
     "787.1ed0c42c.chunk.js.map": "/Portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4e558664.css",
-    "static/js/main.94519ebd.js"
+    "static/css/main.de770f5e.css",
+    "static/js/main.bf1691f3.js"
   ]
 }
